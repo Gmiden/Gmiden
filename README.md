@@ -12,11 +12,11 @@ Full-stack Java / Angular developer with 10+ years of experience building web ap
 ## Featured Projects
 ### Membership Management Backend
 NestJS / TypeScript backend for managing members, business rules, and API endpoints.
-[Repository](#)
+[Repository](https://github.com/Gmiden/membership-management-backend)
 
 ### Membership Management Frontend
 Angular frontend for member management with responsive UI and reusable components.
-[Repository](#)
+[Repository](https://github.com/Gmiden/membership-management-frontend)
 
 ### Java Algorithms
 Java practice repository for algorithms, OOP, and coding exercises.
