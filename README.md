@@ -56,7 +56,7 @@ Frontend project for member management with Angular.
 ### Java Practice / Algorithms
 Repository for Java practice, algorithms, and problem-solving exercises.
 
-**Repository:** [JavaRepository](https://github.com/Gmiden/JavaRepository)
+**Repository:** [JavaRepository](https://github.com/Gmiden/java-practice)
 
 ## What I’m Working On
 
